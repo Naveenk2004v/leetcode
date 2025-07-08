@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Naveenk2004v/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Naveenk2004v/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Naveenk2004v/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Naveenk2004v/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->

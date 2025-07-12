@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Naveenk2004v/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naveenk2004v/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Naveenk2004v/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Naveenk2004v/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naveenk2004v/leetcode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/Naveenk2004v/leetcode/tree/master/0782-jewels-and-stones) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Naveenk2004v/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Naveenk2004v/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Naveenk2004v/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naveenk2004v/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Naveenk2004v/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
@@ -96,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Naveenk2004v/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naveenk2004v/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Naveenk2004v/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Naveenk2004v/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/Naveenk2004v/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
